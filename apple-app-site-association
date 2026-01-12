@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "9BV2H3J4TD.com.neox.iosapp.dev",
+        "appID": "9BV2H3J4TD.com.neox.iosapp.dev",
         "paths": ["*"]
       }
     ]
